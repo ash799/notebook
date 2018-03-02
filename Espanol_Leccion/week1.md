@@ -34,7 +34,6 @@
 * **adjective**: change with the noun, singular/plural and M/F(only for adj. ending with 'o')
 ##### examples for nouns
 * el libro - the book
-
 * un boligrafo - a pen
 * la mesa - the desk
 * una silla - a chair
